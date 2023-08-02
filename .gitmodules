@@ -1,0 +1,6 @@
+[submodule "sboard-test-back"]
+	path = sboard-test-back
+	url = https://github.com/stg35/sboard-test-back
+[submodule "sboard-test-front"]
+	path = sboard-test-front
+	url = https://github.com/stg35/sboard-test-front
